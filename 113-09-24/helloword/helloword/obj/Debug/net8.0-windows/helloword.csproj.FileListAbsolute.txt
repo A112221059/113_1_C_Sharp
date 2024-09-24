@@ -1,0 +1,16 @@
+C:\Users\shu\Desktop\113_1_C#\113-09-24\helloword\helloword\bin\Debug\net8.0-windows\helloword.exe
+C:\Users\shu\Desktop\113_1_C#\113-09-24\helloword\helloword\bin\Debug\net8.0-windows\helloword.deps.json
+C:\Users\shu\Desktop\113_1_C#\113-09-24\helloword\helloword\bin\Debug\net8.0-windows\helloword.runtimeconfig.json
+C:\Users\shu\Desktop\113_1_C#\113-09-24\helloword\helloword\bin\Debug\net8.0-windows\helloword.dll
+C:\Users\shu\Desktop\113_1_C#\113-09-24\helloword\helloword\bin\Debug\net8.0-windows\helloword.pdb
+C:\Users\shu\Desktop\113_1_C#\113-09-24\helloword\helloword\obj\Debug\net8.0-windows\helloword.Form1.resources
+C:\Users\shu\Desktop\113_1_C#\113-09-24\helloword\helloword\obj\Debug\net8.0-windows\helloword.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_1_C#\113-09-24\helloword\helloword\obj\Debug\net8.0-windows\helloword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shu\Desktop\113_1_C#\113-09-24\helloword\helloword\obj\Debug\net8.0-windows\helloword.AssemblyInfoInputs.cache
+C:\Users\shu\Desktop\113_1_C#\113-09-24\helloword\helloword\obj\Debug\net8.0-windows\helloword.AssemblyInfo.cs
+C:\Users\shu\Desktop\113_1_C#\113-09-24\helloword\helloword\obj\Debug\net8.0-windows\helloword.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_1_C#\113-09-24\helloword\helloword\obj\Debug\net8.0-windows\helloword.dll
+C:\Users\shu\Desktop\113_1_C#\113-09-24\helloword\helloword\obj\Debug\net8.0-windows\refint\helloword.dll
+C:\Users\shu\Desktop\113_1_C#\113-09-24\helloword\helloword\obj\Debug\net8.0-windows\helloword.pdb
+C:\Users\shu\Desktop\113_1_C#\113-09-24\helloword\helloword\obj\Debug\net8.0-windows\helloword.genruntimeconfig.cache
+C:\Users\shu\Desktop\113_1_C#\113-09-24\helloword\helloword\obj\Debug\net8.0-windows\ref\helloword.dll
