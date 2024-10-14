@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Desktop\\113_1_C_Sharp\\113-10-08\\Tutorial2_5\\Tutorial2_5\\Tutorial2_5.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\113_1_C_Sharp\\HW\\card ldentifier\\card ldentifier\\card ldentifier.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Desktop\\113_1_C_Sharp\\113-10-08\\Tutorial2_5\\Tutorial2_5\\Tutorial2_5.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\113_1_C_Sharp\\HW\\card ldentifier\\card ldentifier\\card ldentifier.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\113_1_C_Sharp\\113-10-08\\Tutorial2_5\\Tutorial2_5\\Tutorial2_5.csproj",
-        "projectName": "Tutorial2_5",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\113_1_C_Sharp\\113-10-08\\Tutorial2_5\\Tutorial2_5\\Tutorial2_5.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\113_1_C_Sharp\\HW\\card ldentifier\\card ldentifier\\card ldentifier.csproj",
+        "projectName": "card ldentifier",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\113_1_C_Sharp\\HW\\card ldentifier\\card ldentifier\\card ldentifier.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Desktop\\113_1_C_Sharp\\113-10-08\\Tutorial2_5\\Tutorial2_5\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\113_1_C_Sharp\\HW\\card ldentifier\\card ldentifier\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
