@@ -37,15 +37,15 @@ namespace Cards
         }
         private void showCard(string cardName)
         {
-            switch(showCard)
+            switch(cardName)
             {
-                case"黑桃Ace";
+                case "黑桃Ace":
                      showAceSpades();
                      break;
-                case "紅心十";
+                case "紅心十":
                     showTenHearts();
                     break;
-                case "梅花k";
+                case "梅花k":
                     showKingClubss();
                     break;
             }

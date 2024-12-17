@@ -40,3 +40,6 @@ C:\Users\shu\Desktop\113_1_C_Sharp\113-12-10\Tutorial 6-2\Cards\Cards\obj\x86\De
 C:\Users\shu\Desktop\113_1_C_Sharp\113-12-10\Tutorial 6-2\Cards\Cards\obj\x86\Debug\Cards.csproj.CoreCompileInputs.cache
 C:\Users\shu\Desktop\113_1_C_Sharp\113-12-10\Tutorial 6-2\Cards\Cards\obj\x86\Debug\Cards.exe
 C:\Users\shu\Desktop\113_1_C_Sharp\113-12-10\Tutorial 6-2\Cards\Cards\obj\x86\Debug\Cards.pdb
+C:\Users\shu\Desktop\113_1_C_Sharp\113-12-10\Tutorial 6-2\Cards\Cards\bin\Debug\Cards.exe.config
+C:\Users\shu\Desktop\113_1_C_Sharp\113-12-10\Tutorial 6-2\Cards\Cards\bin\Debug\Cards.exe
+C:\Users\shu\Desktop\113_1_C_Sharp\113-12-10\Tutorial 6-2\Cards\Cards\bin\Debug\Cards.pdb
